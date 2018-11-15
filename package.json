@@ -1,0 +1,22 @@
+{
+  "name": "learn-koa",
+  "version": "1.0.0",
+  "description": "learn-koa",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itswcg/learn-koa.git"
+  },
+  "author": "itswcg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/itswcg/learn-koa/issues"
+  },
+  "homepage": "https://github.com/itswcg/learn-koa#readme",
+  "dependencies": {
+    "koa": "2.6.2"
+  }
+}
